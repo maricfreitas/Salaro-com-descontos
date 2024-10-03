@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-float sal,sal_liq,INSS,sind,ir,hora,hora_total,desc;
+float sal,INSS,sind,ir,hora,hora_total,desc;
 
 int main()
 {
